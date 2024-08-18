@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: bigidhub2
+  repository: bigidhub2:v1
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "1.0"
