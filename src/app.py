@@ -43,8 +43,8 @@ def server_error(error):
     return render_template("500.html", error=error)
 
 
-if __name__ == "__main__":
-    keep_alive()
+# if __name__ == "__main__":
+#     keep_alive()
 # from flask import Flask, jsonify, render_template
 # import socket
 # app = Flask(__name__)
@@ -69,5 +69,5 @@ if __name__ == "__main__":
 #     hostname, ip = fetchDetails()
 #     return render_template('index.html', HOSTNAME=hostname, IP=ip)
 
-# if __name__ == '__main__':
-#     app.run(host='0.0.0.0', port=5000)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
