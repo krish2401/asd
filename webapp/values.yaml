@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: bigidhub2
+  repository: krishm2401/bigidhub2
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1"
