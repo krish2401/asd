@@ -1,6 +1,6 @@
 #                                                                        BIGID PROJECT                                                    #
 
- ![image](https://github.com/user-attachments/assets/649bd622-f228-4108-96ac-25b51402220c)
+[![slack](https://github.com/user-attachments/assets/649bd622-f228-4108-96ac-25b51402220c)
 
 ![image](https://github.com/user-attachments/assets/0dba2164-c4f9-4766-bc9b-354874a1fa17)
 
